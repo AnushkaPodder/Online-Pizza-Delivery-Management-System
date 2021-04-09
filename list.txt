@@ -1,0 +1,3 @@
+http://localhost/phpmyadmin
+http://localhost/Online-Food-Orde
+http://localhost/Online-Food-Order/managerlogin.php
